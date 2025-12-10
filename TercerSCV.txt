@@ -1,0 +1,5 @@
+Distribuidos
+
+Cuando un cliente se quiere conectar a un servidor no le da solo el archivo le da una copia de todo lo alamcenado.
+
+Una ventaja que tienen una copia de todo como el servidor etc...
