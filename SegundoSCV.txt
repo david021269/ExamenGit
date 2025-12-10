@@ -1,0 +1,6 @@
+Locales
+
+Tiene un alto riego porque depende del programador porque se tiene que acordar de guardarlo
+
+
+desventaja que el programador tiene que ir haciendo una copia de seguridad cada cierto tiempo

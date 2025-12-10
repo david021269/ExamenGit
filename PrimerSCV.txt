@@ -1,0 +1,5 @@
+Centralizados
+
+Las copias de seguridad o versiones se encuentran en una zona centralizada de cualquier servidor que sera accesible desde cualquier ordenador que este en el proyecto.
+
+ventaja que permiten que trabajen varias personas en un mismo proyecto.
